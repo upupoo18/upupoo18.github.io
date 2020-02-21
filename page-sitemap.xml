@@ -2,48 +2,55 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite.com</loc>
+        <loc>https://guke.ml</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/about/</loc>
+        <loc>https://guke.ml/bXdnOUFKTlRKMjdINERjQnVTbzJZQT09.guke.ml.html</loc>
+        <lastmod>2020-02-18T00:54:00.142Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://guke.ml/about/</loc>
         <lastmod>2020-01-28T08:11:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/baidu_verify_uIzuF9aBJI.html</loc>
+        <loc>https://guke.ml/baidu_verify_uIzuF9aBJI.html</loc>
         <lastmod>2020-01-28T08:01:17.896Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/categories/</loc>
+        <loc>https://guke.ml/categories/</loc>
         <lastmod>2020-01-28T05:16:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/tags/</loc>
+        <loc>https://guke.ml/tags/</loc>
         <lastmod>2020-01-28T05:16:23.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/404/</loc>
+        <loc>https://guke.ml/404/</loc>
         <lastmod>2020-01-28T05:15:42.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/search/</loc>
+        <loc>https://guke.ml/search/</loc>
         <lastmod>2020-01-28T05:14:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>

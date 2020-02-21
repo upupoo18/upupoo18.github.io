@@ -2,13 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite.com</loc>
+        <loc>https://guke.ml</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/p/7967.html</loc>
+        <loc>https://guke.ml/p/5e05.html</loc>
+        <lastmod>2020-02-21T13:52:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://guke.ml/p/7967.html</loc>
         <lastmod>2020-01-28T09:06:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -16,7 +24,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/p/3eeb.html</loc>
+        <loc>https://guke.ml/p/3eeb.html</loc>
         <lastmod>2020-01-28T02:37:21.451Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
