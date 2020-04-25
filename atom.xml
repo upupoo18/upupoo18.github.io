@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://guke.ml/"/>
-  <updated>2020-04-14T14:34:38.178Z</updated>
+  <updated>2020-04-25T13:17:54.000Z</updated>
   <id>https://guke.ml/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sakura-主题食用教程</title>
+    <link href="https://guke.ml/p/37DM38R.html"/>
+    <id>https://guke.ml/p/37DM38R.html</id>
+    <published>2020-04-25T13:17:54.000Z</published>
+    <updated>2020-04-25T13:17:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>P站分享第二期-初音专题</title>
