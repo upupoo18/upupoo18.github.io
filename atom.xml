@@ -29,17 +29,24 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;p&gt;&lt;a href=&quot;https://www.sakura521.cn/technology/sakurameihua.html#添加前往GitHub的彩带&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;教程链接1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
         
       
     
     </summary>
     
     
+    
+      <category term="C" scheme="https://guke.ml/tags/C/"/>
+    
+      <category term="Git" scheme="https://guke.ml/tags/Git/"/>
+    
+      <category term="hexo" scheme="https://guke.ml/tags/hexo/"/>
+    
+      <category term="Sakura" scheme="https://guke.ml/tags/Sakura/"/>
+    
+      <category term="教程" scheme="https://guke.ml/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
