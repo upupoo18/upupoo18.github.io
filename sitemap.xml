@@ -4,7 +4,7 @@
 
     <sitemap>
         <loc>https://guke.ml/post-sitemap.xml</loc>
-        <lastmod>2020-04-25T13:17:54.000Z</lastmod>
+        <lastmod>2020-06-23T07:11:57.000Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -14,12 +14,12 @@
 
     <sitemap>
         <loc>https://guke.ml/category-sitemap.xml</loc>
-        <lastmod>2020-02-21T13:52:08.000Z</lastmod>
+        <lastmod>2020-06-23T07:11:57.000Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://guke.ml/tag-sitemap.xml</loc>
-        <lastmod>2020-04-25T13:17:54.000Z</lastmod>
+        <lastmod>2020-06-23T07:11:57.000Z</lastmod>
     </sitemap>
 
 </sitemapindex>
