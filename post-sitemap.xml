@@ -13,6 +13,12 @@
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
+        <image:image>
+
+            <image:loc>https://p.pstatp.com/origin/1373400008c05067ecf96</image:loc>
+
+        </image:image>
+
     </url>
 
     <url>
@@ -21,6 +27,12 @@
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
+        <image:image>
+
+            <image:loc>https://p.pstatp.com/origin/ffd2000103ac769f30a2</image:loc>
+
+        </image:image>
+
     </url>
 
     <url>
@@ -28,6 +40,12 @@
         <lastmod>2020-06-23T07:11:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
+
+        <image:image>
+
+            <image:loc>https://ae02.alicdn.com/kf/Ha67cb28c26a94cb49359a20442abd3ccM.png</image:loc>
+
+        </image:image>
 
     </url>
 
